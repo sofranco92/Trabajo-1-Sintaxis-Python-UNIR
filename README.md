@@ -12,15 +12,6 @@ Desarrollo de una calculadora de promedios escolares en Python utilizando variab
 ```bash
 python calculadora_promedios.py
 ```
-
-## 🧪 Archivo de Pruebas
-
-Se incluye `test_calculadora.py` que demuestra:
-- Funcionamiento de todas las funciones
-- Casos especiales (listas vacías, una sola materia)
-- Datos de ejemplo representativos
-- Validación de resultados esperados
-
 ---
 
 **Desarrollado por**: Samir Franco
